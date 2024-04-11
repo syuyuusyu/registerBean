@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: beanRegister
+
+property:
+  persons:
+    - name: "person1"
+      id: "1"
+    - name: "person2"
+      id: "2"
